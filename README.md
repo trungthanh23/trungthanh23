@@ -59,7 +59,7 @@ I am a dedicated **Digital IC Design and Verification Engineer** with a strong f
 ### 📊 GitHub Stats
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trungthanh23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungthanh23&layout=compact&theme=tokyonight&hide=html,css" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungthanh23&layout=compact&theme=tokyonight&hide_progress=true" />
 </p>
 
 ---
