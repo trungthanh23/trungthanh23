@@ -1,5 +1,11 @@
 # 🚀 Digital IC Design & Verification Engineer
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Focus-Digital_IC_Design-blue?style=for-the-badge&logo=cpu-z&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verification-UVM_Methodology-orange?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-HUST-red?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</p>
+
 I am a committed Engineer focused on **RTL-to-GDSII flow** and **UVM methodologies**, currently contributing to high-performance SoC development.
 
 ---
